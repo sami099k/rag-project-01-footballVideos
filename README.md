@@ -85,6 +85,4 @@ rag_project/
 - Embeddings are generated locally using Ollama
 - All processing is done locally without external API calls
 
-## License
 
-MIT
