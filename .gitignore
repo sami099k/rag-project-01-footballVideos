@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large files
+*.pt
+*.mp4
+*.mp3
+*.wav
+
+# Cache
+.cache/
+
+# IDE
+.vscode/
+.idea/
