@@ -152,12 +152,16 @@ print(response)
 ## Example Output
 
 ```
-QUERY: Tell me about Marco van Basten
-================================================================================
-Video: How good was Marco van Basten - 02:15 => Discusses his legendary volley
-Video: How good was Marco van Basten - 05:30 => Details his career at AC Milan
-Video: How good was Marco van Basten - 08:45 => Injury that ended his career
-================================================================================
+Here's information about Marco van Basten based on Markaroni's video content:
+
+Marco Van Basten was a phenomenal footballer known for his incredible skill and finishing. His impact began young: "Video: How good was marco vanbasten at 0:53" highlights that he was already ahead of others at age 16, while another snippet states, "Video: How good was marco vanbasten at 2:49" confirms this early dominance.
+
+He had a legendary career with AC Milan, scoring crucial goals and becoming one of the greatest striikers ever. For instance, "Video: How good was marco vanbasten at 3:05" details his teaching moment for young talents, and another says, "Video: How good was marco vanbasten at 7:16" notes him as a top scorer during significant periods.
+
+His influence extended globally too. Look up specific goals or anecdotes in the following videos:      
+*   Video: How good was marco vanbasten at 5:08 - Discusses his famous goal and impact.
+*   Video: How good was marco vanbasten at 13:26 - Covers how he influenced European markets.
+
 ```
 
 
